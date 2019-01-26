@@ -1,8 +1,7 @@
 ---
-templateKey: 'product-page'
-path: /products
-title: Our Coffee
-image: /img/jumbotron.jpg
+templateKey: product-page
+title: 880cafe
+image: /img/products-grid2.jpg
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -99,3 +98,4 @@ pricing:
       plan: Custom
       price: '??'
 ---
+
